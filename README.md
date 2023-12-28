@@ -34,14 +34,22 @@
 - 📫 How to reach me **ldaniel.18@hotmail.com**
 </p>
 
-<!--Conecta conmigo-->
-<h2 align="center">Connect with me:</h2>
+<!--Conecta conmigo + .gift-->
+<h2 align="center">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="85">
+<b>Connect with me:</b>
+</h2>
+
 <!--Aqui conecta el Facebook-->
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="40" width="40" /></a>
 
 <!--Mi Trabajo-->
-<h2 align="center">My work:</h2>
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+<b>My work:</b>
+</h2>
+
 <!--Aqui conecta el GitHub-->
 <p align="center">
 <a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="40" width="40" /></a>
