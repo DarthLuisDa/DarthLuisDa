@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer FullStack from México <a href="" target="blank"><img align="center" src="https://hotemoji.com/images/emoji/0/11t6e351hhx1j0.png" alt="bandera mexico" height="35" width="40" /></a></h3>
 A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.pinimg.com/originals/4b/56/de/4b56de745fe61f0a958ba851b7bfc6f6.gif"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"></a>
 </p>
 
 
