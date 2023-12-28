@@ -38,11 +38,11 @@
 <h3 align="center">Connect with me:</h3>
 <!--Aqui conecta el Facebook-->
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="40" width="40" /></a>
 
 <!--Aqui conecta el GitHub-->
 <p align="center">
-<a href="https://github.com/DarthLuisDa](https://github.com/DarthLuisDa" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="30" width="40" /></a>
+<a href="https://github.com/DarthLuisDa" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="40" width="40" /></a>
 </p>
 
 <!--Tercera Linea .gift-->
