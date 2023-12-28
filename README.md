@@ -18,17 +18,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<br>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<br>
+<!--Mas sobre mi + .gift-->
+<h1 align="center">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
+<b>About me</b>
+</h1>
 
 <p align="center">
-- 🌱 I’m currently learning **Fundaments of IA**
-</p>
-<p align="center">
-- 👨‍💻 All of my projects are available at [https://github.com/DarthLuisDa](https://github.com/DarthLuisDa)
+- 🤖 I’m currently learning **Fundaments of IA**
 </p>
 <p align="center">
 - 💬 Ask me about **HTML,CSS,JavaScript y ReactJS**
@@ -36,17 +33,20 @@
 <p align="center">
 - 📫 How to reach me **ldaniel.18@hotmail.com**
 </p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [https://github.com/DarthLuisDa](https://github.com/DarthLuisDa)
+</p>
 <!--Aqui conecta el Facebook-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/luis daniel vargas rodríguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel vargas rodríguez" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel vargas rodríguez" height="30" width="40" /></a>
 </p>
-
+<!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-
+<!--Habilidades, Lenguajes y Herramientas + .gift-->
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills, Languages and Tools</b> 
@@ -54,13 +54,14 @@
 </p>
 <br>
 
+<!--Software Básico + .png-->
 <h3 align="left">Software Basics:</h3>
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40"/> </a> 
 </p>
-
+<!--Frontend Básico + .png-->
 <h3 align="right">Frontend Development Basics:</h3>
 <p align="right">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> </a> 
@@ -68,7 +69,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="44"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/> </a> 
 </p>
-
+<!--Frontend Avanzado + .png-->
 <h3 align="left">Frontend Development Advanced:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> </a> 
@@ -78,31 +79,31 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> </a> 
 </p>
-
+<!--Lenguajes de Programación + .png-->
 <h3 align="right">Programming Languages:</h3>
 <p align="right">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/kotlin-logo-11609366747taesruhpzi.png" alt="kotlin" width="40" height="40"/> </a> 
 </p>
-
+<!--Programación Celular + .png-->
 <h3 align="left">Mobile App Development:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
 </p>
-
+<!--Diseño Backend + .png-->
 <h3 align="right">Backend as a Service(BaaS):</h3>
 <p align="right">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/452ca0a2b79a95a25eb41f961b3dffb5.png" alt="mysql" width="60" height="40"/> </a> 
 </p>
-
+<!--Diseño Básico + .png-->
 <h3 align="left">Software Design Basics:</h3>
 <p align="left">
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
+<!--Control de Versiones + .png-->
 <h3 align="right">Version Control:</h3>
 <p align="right">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -111,6 +112,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
 </p>
 
+<!--Cuarta Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
