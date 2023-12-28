@@ -1,16 +1,19 @@
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <h1 align="center">
 <img src="https://image.space.rakuten.co.jp/lg01/98/0001006098/24/img0cd74f78zik7zj.gif" width="35">
 <b>Hi , I'm Luis Daniel Vargas Rodríguez</b>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 </h1>
 <h3 align="center">A Passionate Developer FullStack from México <a href="" target="blank"><img align="center" src="https://th.bing.com/th/id/R.30604a1f63fe70bc5425d915a89f4e88?rik=mi%2f3NXK7eWiuvQ&riu=http%3a%2f%2fi67.photobucket.com%2falbums%2fh317%2fal7n6awi%2fflags%2fAnimated-Flag-Mexico.gif&ehk=a2iV%2b3ovS4hm496so3NSldzWjES5QEA0sAFedqq8w7g%3d&risl=&pid=ImgRaw&r=0" alt="bandera mexico" height="35" width="50" /></a></h3>
 <p align="center">
-  <a href=""><img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" height="400" width="2200"></a>
+<a href=""><img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" height="400" width="2200"></a>
 </p>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <br>
 
@@ -30,28 +33,23 @@
 <p align="center">
 - 📫 How to reach me **ldaniel.18@hotmail.com**
 </p>
-
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-
-
-
 <!--Aqui conecta el Facebook-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/luis daniel vargas rodríguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel vargas rodríguez" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">"Skills, Languages and Tools"</h3>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills, Languages and Tools</b> 
 <p align="center">
 </p>
+<br>
 
 <h3 align="left">Software Basics:</h3>
 <p align="left">
@@ -110,6 +108,9 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
 </p>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 
 
