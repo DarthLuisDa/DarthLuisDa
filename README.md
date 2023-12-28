@@ -24,10 +24,18 @@
 <p align="center">
 </p>
 
+<h3 align="left">Software Basics:</h3>
+<p align="left">
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> </a> 
+</p>
+
 <h3 align="right">Frontend Development Basics:</h3>
 <p align="right">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="33" height="33"/> </a> 
 </p>
 
 <h3 align="left">Frontend Development Advanced:</h3>
@@ -49,12 +57,13 @@
 
 <h3 align="left">Mobile App Development:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
 </p>
 
 <h3 align="right">Backend as a Service(BaaS):</h3>
 <p align="right">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/452ca0a2b79a95a25eb41f961b3dffb5.png" alt="mysql" width="60" height="40"/> </a> 
 </p>
 
 <h3 align="left">Software Design Basics:</h3>
@@ -66,7 +75,9 @@
 <h3 align="right">Version Control:</h3>
 <p align="right">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
 </p>
 
 
