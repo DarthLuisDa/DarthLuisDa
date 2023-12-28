@@ -33,26 +33,29 @@
 <p align="center">
 - 📫 How to reach me **ldaniel.18@hotmail.com**
 </p>
-<p align="center">
-- 👨‍💻 All of my projects are available at [https://github.com/DarthLuisDa](https://github.com/DarthLuisDa)
-</p>
-<!--Aqui conecta el Facebook-->
+
+<!--Conecta conmigo-->
 <h3 align="center">Connect with me:</h3>
+<!--Aqui conecta el Facebook-->
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel vargas rodríguez" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="30" width="40" /></a>
+
+<!--Aqui conecta el GitHub-->
+<p align="center">
+<a href="https://github.com/DarthLuisDa](https://github.com/DarthLuisDa" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="30" width="40" /></a>
 </p>
+
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <!--Habilidades, Lenguajes y Herramientas + .gift-->
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills, Languages and Tools</b> 
-<p align="center">
-</p>
-<br>
+<!--Mas sobre mi + .gift-->
+<h1 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="40">
+<b>Skills, Languages and Tools</b>
+</h1>
 
 <!--Software Básico + .png-->
 <h3 align="left">Software Basics:</h3>
