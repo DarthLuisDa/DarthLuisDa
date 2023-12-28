@@ -1,16 +1,19 @@
+<!--Primera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+<!--.gift + Saludo + .gift-->
 <h1 align="center">
 <img src="https://image.space.rakuten.co.jp/lg01/98/0001006098/24/img0cd74f78zik7zj.gif" width="35">
 <b>Hi , I'm Luis Daniel Vargas Rodríguez</b>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="center">A Passionate Developer FullStack from México <a href="" target="blank"><img align="center" src="https://th.bing.com/th/id/R.30604a1f63fe70bc5425d915a89f4e88?rik=mi%2f3NXK7eWiuvQ&riu=http%3a%2f%2fi67.photobucket.com%2falbums%2fh317%2fal7n6awi%2fflags%2fAnimated-Flag-Mexico.gif&ehk=a2iV%2b3ovS4hm496so3NSldzWjES5QEA0sAFedqq8w7g%3d&risl=&pid=ImgRaw&r=0" alt="bandera mexico" height="35" width="50" /></a></h3>
+<!--Quien soy? + .gift-->
+<h3 align="center">A Passionate Developer FullStack from México<img align="center" src="https://th.bing.com/th/id/R.30604a1f63fe70bc5425d915a89f4e88?rik=mi%2f3NXK7eWiuvQ&riu=http%3a%2f%2fi67.photobucket.com%2falbums%2fh317%2fal7n6awi%2fflags%2fAnimated-Flag-Mexico.gif&ehk=a2iV%2b3ovS4hm496so3NSldzWjES5QEA0sAFedqq8w7g%3d&risl=&pid=ImgRaw&r=0" alt="bandera mexico" height="35" width="50"></h3>
 <p align="center">
 <a href=""><img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" height="400" width="2200"></a>
 </p>
-
+<!--Segunda Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
