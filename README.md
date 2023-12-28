@@ -28,24 +28,25 @@
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="right">Frontend Development Basics:</h3>
 <p align="right">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="33" height="33"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="44"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Frontend Development Advanced:</h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="50" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> </a> 
 </p>
 
 <h3 align="right">Programming Languages:</h3>
