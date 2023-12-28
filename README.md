@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Daniel Vargas Rodríguez</h1>
-<h3 align="center">A Passionate Developer FullStack from México🦅🌮🌵🌶️</h3>
+<h3 align="center">A Passionate Developer FullStack from México <a href="" target="blank"><img align="center" src="https://hotemoji.com/images/emoji/0/11t6e351hhx1j0.png" alt="bandera mexico" height="35" width="40" /></a></h3>
 
 <p align="center">
 - 🌱 I’m currently learning **Fundaments of IA**
