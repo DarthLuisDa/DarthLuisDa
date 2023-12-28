@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer FullStack from México <a href="" target="blank"><img align="center" src="https://hotemoji.com/images/emoji/0/11t6e351hhx1j0.png" alt="bandera mexico" height="35" width="40" /></a></h3>
 A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.pinimg.com/originals/4b/56/de/4b56de745fe61f0a958ba851b7bfc6f6.gif"></a>
 </p>
 
 
