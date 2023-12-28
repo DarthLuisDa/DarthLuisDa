@@ -36,12 +36,15 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="50" height="40"/> </a> 
 </p>
 
 <h3 align="right">Programming Languages:</h3>
 <p align="right">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/kotlin-logo-11609366747taesruhpzi.png" alt="kotlin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Mobile App Development:</h3>
@@ -63,6 +66,7 @@
 <h3 align="right">Version Control:</h3>
 <p align="right">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
