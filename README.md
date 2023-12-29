@@ -84,10 +84,10 @@
 <b>Skills, Languages and Tools</b>
 </h1>
 
-<!--Software Básico + .png-->
-  <p style="display: inline-block;" align="center">
+<div>
+ <p style="display: inline-block;" align="center">
     <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span>Software Basics:</span>
+      <span style="font-size: 24px;" align="center">Software Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
@@ -95,8 +95,19 @@
       <img width="40" height="40" src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC"/> 
       <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
-    </p>
-  
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span style="font-size: 24px;" align="center">Software Basics:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+      <img width="80" height="45" src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" /> 
+      <img width="40" height="40" src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC"/> 
+      <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" /> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    </p> 
+</div>
+
+<!--Software Básico + .png-->
     
 <h3 align="left">Software Basics:</h3>
 <p align="left">
