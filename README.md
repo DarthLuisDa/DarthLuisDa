@@ -163,16 +163,16 @@
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     </p>  <!--Esta etiqueta es para contener todo-->
 </div> <!--Esta etiqueta genera la division-->
-
+ 
 <!--Software Básico + .png-->
-<h3 align="left">Software Basics:</h3>
+<!--<h3 align="left">Software Basics:</h3>
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 80 px/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 55 px/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 55 px /> </a> 
 </p>
 <!--Frontend Básico + .png-->
-<h3 align="right">Frontend Development Basics:</h3>
+<!--<h3 align="right">Frontend Development Basics:</h3>
 <p align="right">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width= 55 px /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width= 55 px/> </a> 
@@ -180,7 +180,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 55 px /> </a> 
 </p>
 <!--Frontend Avanzado + .png-->
-<h3 align="left">Frontend Development Advanced:</h3>
+<!--<h3 align="left">Frontend Development Advanced:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 55 px/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 55 px/> </a> 
@@ -190,32 +190,32 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 80 px/> </a> 
 </p>
 <!--Lenguajes de Programación + .png-->
-<h3 align="right">Programming Languages:</h3>
+<!--<h3 align="right">Programming Languages:</h3>
 <p align="right">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width= 55 px/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 55 px/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 55 px/> </a> 
 </p>
 <!--Programación Celular + .png-->
-<h3 align="left">Mobile App Development:</h3>
+<!--<h3 align="left">Mobile App Development:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android" width= 55 px/></a>
 </p>
 <!--Diseño Backend + .png-->
-<h3 align="right">Backend as a Service(BaaS):</h3>
+<!--<h3 align="right">Backend as a Service(BaaS):</h3>
 <p align="right">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 55 px/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 55 px/> </a> 
 </p>
 <!--Diseño Básico + .png-->
-<h3 align="left">Software Design Basics:</h3>
+<!--<h3 align="left">Software Design Basics:</h3>
 <p align="left">
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width= 55 px/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 55 px/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premiere" width= 55 px/> </a> 
 </p>
 <!--Control de Versiones + .png-->
-<h3 align="right">Version Control:</h3>
+<!--<h3 align="right">Version Control:</h3>
 <p align="right">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width= 55 px"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 55 px/> </a> 
