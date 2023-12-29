@@ -20,27 +20,28 @@
 
 <!--Mas sobre mi + .gift-->
 <h1 align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 65 px>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50 px>
 <b>About me</b>
 </h1>
 
-<p align="center">
-- 🤖 I’m currently learning **Fundaments of IA**
-</p>
-<p align="center">
-- 💬 Ask me about **HTML,CSS,JavaScript y ReactJS**
-</p>
+<h3 align="center">🤖 I’m currently learning... **IT and IA**</h3>
+<h3 align="center">💬 Ask me about... **HTML,CSS,JavaScript y ReactJS**</h3>
 
 <!--Me puedes encontrar-->
 <h2 align="center">
-<img src="https://cdn.dribbble.com/users/361933/screenshots/1945591/media/5946246fae3cdc19360644a5df2265c6.gif" width= 60 px>
+<img src="https://cdn.dribbble.com/users/767222/screenshots/2149436/mail-animation.gif" width= 40 px>
 <b>How to reach me:</b>
 </h2>
 <!--Correo-->
-<p align="center">
-<a href="" target="blank"><img src="" alt="ldaniel.18@hotmail.com" width= 65 px /></a>
+<h3 align="center">
+<a href="" target="blank"><img src="https://wowjohn.com/wp-content/uploads/2022/05/hotmail-logo-png-1-Transparent-Images.png" alt="ldaniel.18@hotmail.com" width= 65 px /></a>
 ldaniel.18@hotmail.com
-</p>
+</h3>
+<!--Correo 2-->
+<h3 align="center">
+<a href="" target="blank"><img src="https://i.pinimg.com/originals/72/6d/02/726d025f49feae4c521d84681355bea4.png" alt="5cvargas.luis@gmail.com" width= 65 px /></a>
+5cvargas.luis@gmail.com
+</h3>
 
 
 <!--Conecta conmigo + .gift-->
@@ -64,13 +65,13 @@ ldaniel.18@hotmail.com
 
 <!--Mis Insignias-->
 <h2 align="center">
-<img src="https://i.gifer.com/origin/d7/d755a0e1aa4dca488626cc82bbfda518.gif" width="40">
+<img src="https://i.gifer.com/origin/d7/d755a0e1aa4dca488626cc82bbfda518.gif" width= 40 px>
 <b>My Badges:</b>
 </h2>
 <!--Insignias-->
 <p align="center">
-<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 100 px /></a>
-<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 100 px /></a>
+<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 110 px /></a>
+<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 110 px /></a>
 </p>
 
 <!--Tercera Linea .gift-->
