@@ -23,7 +23,6 @@
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
 <b>About me</b>
 </h1>
-
 <p align="center">
 - 🤖 I’m currently learning **Fundaments of IA**
 </p>
@@ -64,8 +63,6 @@
 <a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" height="150" width="150" /></a>
 </p>
 
-
-
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -77,8 +74,7 @@
 <!--<div>
 <!--Aqui va todo el contenido-->  
 <!--</div>
-
-  
+ 
 <!--Habilidades, Lenguajes y Herramientas + .gift-->
 <h1 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="40">
@@ -96,7 +92,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 65 px /> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 65 px /> 
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Frontend Development Basics:</span>
 <br>  <!--Lineas de Salto-->
@@ -107,7 +102,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width= 65 px />
 <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 65 px />
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Frontend Development Advanced:</span>
 <br>  <!--Lineas de Salto-->
@@ -120,7 +114,6 @@
 <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
 <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 115 px/> 
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Programming Languages:</span>
 <br>  <!--Lineas de Salto-->
@@ -130,7 +123,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 65 px /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 65 px /> 
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-   <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Mobile App Development:</span>
 <br>  <!--Lineas de Salto-->
@@ -138,7 +130,6 @@
 <!--Imagenes dentro del Display-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt="android-studio" width= 65 px/>
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-   <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Backend as a Service(BaaS):</span>
 <br>  <!--Lineas de Salto-->
@@ -147,7 +138,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 65 px /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 65 px />
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-   <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Software Design Basics:</span>
 <br>  <!--Lineas de Salto-->
@@ -157,7 +147,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
 </kbd> <!--Esta etiqueta crea el Cuadro-->
-   <br>  <!--Lineas de Salto para separar cuadros-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
 <span align="center">Version Control:</span>
 <br>  <!--Lineas de Salto-->
