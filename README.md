@@ -92,7 +92,7 @@
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 90 px/> 
+      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 93 px/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 65 px /> 
       <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 65 px /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
@@ -116,7 +116,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 65 px /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 65 px /> 
       <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
-      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 90 px/> 
+      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 115 px/> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Programming Languages:</span>
@@ -147,7 +147,7 @@
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 55 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 65 px /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
            </kbd> <!--Esta etiqueta crea el Cuadro-->
