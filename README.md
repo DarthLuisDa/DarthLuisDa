@@ -101,22 +101,64 @@
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/> 
-      <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="44"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="45"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="45"/> 
+      <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="28" height="40"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="32" height="35"/>
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Frontend Development Advanced:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> </a> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
-      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> </a> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> 
+      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span align="center">Programming Languages:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+      <img src="https://toppng.com/public/uploads/thumbnail/kotlin-logo-11609366747taesruhpzi.png" alt="kotlin" width="40" height="40"/> </a> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span align="center">Mobile App Development:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="40"/>
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+      <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span align="center">Backend as a Service(BaaS):</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+     <img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/452ca0a2b79a95a25eb41f961b3dffb5.png" alt="mysql" width="60" height="40"/>
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span align="center">Software Design Basics:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span align="center">Version Control:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+     <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width="40" height="40"/> 
+     <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> 
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     </p>  <!--Esta etiqueta es para contener todo-->
 </div> <!--Esta etiqueta genera la division-->
@@ -178,7 +220,6 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
 </p>
-
 
 
 <!--Cuarta Linea .gift-->
