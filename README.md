@@ -71,7 +71,7 @@ ldaniel.18@hotmail.com
 <!--Insignias-->
 <p align="center">
 <a href="https://www.credly.com/badges/018e885f-efc8-4bd2-9f3e-df6d01706f45" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 110 px /></a>
-<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 110 px /></a>
+<a href="https://talentotechgto.com.mx/app/profile/data-insignia" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 110 px /></a>
 </p>
 
 <!--Tercera Linea .gift-->
