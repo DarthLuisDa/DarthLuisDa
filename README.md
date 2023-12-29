@@ -86,83 +86,99 @@
 </h1>
 
 <div> <!--Esta etiqueta genera la division-->
- <p style="display: inline-block;" align="center"> <!--Esta etiqueta es para contener todo-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Software Basics:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 93 px/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 65 px /> 
-      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 65 px /> 
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Frontend Development Basics:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width= 65 px />
-      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 65 px />
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Frontend Development Advanced:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 65 px /> 
-      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
-      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 115 px/> 
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Programming Languages:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 65 px /> 
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Mobile App Development:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt="android-studio" width= 65 px/>
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-      <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Backend as a Service(BaaS):</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 65 px /> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 65 px />
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Software Design Basics:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 65 px /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
-           </kbd> <!--Esta etiqueta crea el Cuadro-->
-    <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span align="center">Version Control:</span>
-      <br>  <!--Lineas de Salto-->
-      <br> <!--Lineas de Salto-->
-      <!--Imagenes dentro del Display-->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width= 65 px /> 
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /> 
-     <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width= 65 px /> 
-     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width= 65 px /> 
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
-    </p>  <!--Esta etiqueta es para contener todo-->
+<p style="display: inline-block;" align="center"> <!--Esta etiqueta es para contener todo-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Software Basics:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 93 px/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 65 px /> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 65 px /> 
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+    <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Frontend Development Basics:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width= 65 px />
+<img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 65 px />
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+    <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Frontend Development Advanced:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 65 px /> 
+<img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
+<img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 115 px/> 
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+    <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Programming Languages:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 65 px /> 
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+   <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Mobile App Development:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt="android-studio" width= 65 px/>
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+   <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Backend as a Service(BaaS):</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 65 px />
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+   <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Software Design Basics:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 65 px /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+   <br>  <!--Lineas de Salto para separar cuadros-->
+<kbd> <!--Esta etiqueta crea el Cuadro-->
+<span align="center">Version Control:</span>
+<br>  <!--Lineas de Salto-->
+<br> <!--Lineas de Salto-->
+<!--Imagenes dentro del Display-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width= 65 px /> 
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /> 
+<img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width= 65 px /> 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width= 65 px /> 
+</kbd> <!--Esta etiqueta crea el Cuadro-->
+</p>  <!--Esta etiqueta es para contener todo-->
 </div> <!--Esta etiqueta genera la division-->
+
+<!--Cuarta Linea .gift-->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+[DarthLuisDa](https://github.com/DarthLuisDa)
+
+Last Edited on: 28/December/2023
  
 <!--Software Básico + .png-->
 <!--<h3 align="left">Software Basics:</h3>
@@ -224,14 +240,7 @@
 </p>
 
 
-<!--Cuarta Linea .gift-->
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
-[DarthLuisDa](https://github.com/DarthLuisDa)
-
-Last Edited on: 28/December/2023
 
 
 
