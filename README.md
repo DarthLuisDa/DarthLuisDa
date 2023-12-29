@@ -39,7 +39,6 @@
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="85">
 <b>Connect with me:</b>
 </h2>
-
 <!--Aqui conecta el Facebook-->
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="40" width="40" /></a>
@@ -49,25 +48,56 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
 <b>My work:</b>
 </h2>
-
 <!--Aqui conecta el GitHub-->
 <p align="center">
 <a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="40" width="40" /></a>
 </p>
+
+<!--Mis Insignias-->
+<h2 align="center">
+<img src="https://i.gifer.com/origin/d7/d755a0e1aa4dca488626cc82bbfda518.gif" width="40">
+<b>My Badges:</b>
+</h2>
+<!--Aqui conecta el GitHub-->
+<p align="center">
+<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer UTEL" height="150" width="150" /></a>
+</p>
+
+
 
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+<!--Despegable-->  
+<!--<details>
+<summary font-size= 30px; align="center">Skills, Languages and Tools</summary> <!--Para desplegar contenido-->  
+<!--<div>
+<!--Aqui va todo el contenido-->  
+<!--</div>
+
+  
 <!--Habilidades, Lenguajes y Herramientas + .gift-->
-<!--Mas sobre mi + .gift-->
 <h1 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="40">
 <b>Skills, Languages and Tools</b>
 </h1>
 
 <!--Software Básico + .png-->
+  <p style="display: inline-block;" align="center">
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span>Software Basics:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+      <img width="80" height="45" src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" /> 
+      <img width="40" height="40" src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC"/> 
+      <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" /> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    </p>
+  
+    
 <h3 align="left">Software Basics:</h3>
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
