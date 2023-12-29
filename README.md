@@ -88,7 +88,7 @@
 <div> <!--Esta etiqueta genera la division-->
  <p style="display: inline-block;" align="center"> <!--Esta etiqueta es para contener todo-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span style="font-size: 24px;" align="center">Software Basics:</span>
+      <span align="center">Software Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
@@ -97,7 +97,7 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40" /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span style="font-size: 24px;" align="center">Frontend Development Basics:</span>
+      <span align="center">Frontend Development Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
@@ -107,7 +107,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/>
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span style="font-size: 24px;" align="center">Frontend Development Advanced:</span>
+      <span align="center">Frontend Development Advanced:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
