@@ -92,73 +92,74 @@
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> 
-      <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> 
-      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40" /> 
+      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 90 px/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 65 px /> 
+      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 65 px /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Frontend Development Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="45"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="45"/> 
-      <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="28" height="40"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="32" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width= 65 px />
+      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 65 px />
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Frontend Development Advanced:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> 
-      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 65 px /> 
+      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
+      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 90 px/> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Programming Languages:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-      <img src="https://toppng.com/public/uploads/thumbnail/kotlin-logo-11609366747taesruhpzi.png" alt="kotlin" width="40" height="40"/> </a> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 65 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 65 px /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Mobile App Development:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt="android-studio" width= 65 px/>
     </kbd> <!--Esta etiqueta crea el Cuadro-->
       <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Backend as a Service(BaaS):</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-     <img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/452ca0a2b79a95a25eb41f961b3dffb5.png" alt="mysql" width="60" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 65 px /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 65 px />
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Software Design Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </kbd> <!--Esta etiqueta crea el Cuadro-->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 55 px /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
+           </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span align="center">Version Control:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width="40" height="40"/> 
-     <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> 
-     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width= 65 px /> 
+     <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /> 
+     <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width= 65 px /> 
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width= 65 px /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     </p>  <!--Esta etiqueta es para contener todo-->
 </div> <!--Esta etiqueta genera la division-->
@@ -166,59 +167,60 @@
 <!--Software Básico + .png-->
 <h3 align="left">Software Basics:</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width= 80 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width= 55 px /> </a> 
 </p>
 <!--Frontend Básico + .png-->
 <h3 align="right">Frontend Development Basics:</h3>
 <p align="right">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="44"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width= 55 px /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width= 55 px /> </a> 
 </p>
 <!--Frontend Avanzado + .png-->
 <h3 align="left">Frontend Development Advanced:</h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 55 px/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 55 px/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 55 px/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3school" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 80 px/> </a> 
 </p>
 <!--Lenguajes de Programación + .png-->
 <h3 align="right">Programming Languages:</h3>
 <p align="right">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/kotlin-logo-11609366747taesruhpzi.png" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width= 55 px/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width= 55 px/> </a> 
 </p>
 <!--Programación Celular + .png-->
 <h3 align="left">Mobile App Development:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android" width= 55 px/></a>
 </p>
 <!--Diseño Backend + .png-->
 <h3 align="right">Backend as a Service(BaaS):</h3>
 <p align="right">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/452ca0a2b79a95a25eb41f961b3dffb5.png" alt="mysql" width="60" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 55 px/> </a> 
 </p>
 <!--Diseño Básico + .png-->
 <h3 align="left">Software Design Basics:</h3>
 <p align="left">
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width= 55 px/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premiere" width= 55 px/> </a> 
 </p>
 <!--Control de Versiones + .png-->
 <h3 align="right">Version Control:</h3>
 <p align="right">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width= 55 px"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width= 55 px/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width= 55 px/> </a> 
 </p>
 
 
