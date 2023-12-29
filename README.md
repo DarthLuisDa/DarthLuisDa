@@ -58,9 +58,10 @@
 <img src="https://i.gifer.com/origin/d7/d755a0e1aa4dca488626cc82bbfda518.gif" width="40">
 <b>My Badges:</b>
 </h2>
-<!--Aqui conecta el GitHub-->
+<!--Insignias-->
 <p align="center">
-<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer UTEL" height="150" width="150" /></a>
+<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" height="150" width="150" /></a>
+<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" height="150" width="150" /></a>
 </p>
 
 
@@ -108,7 +109,6 @@
 </div>
 
 <!--Software Básico + .png-->
-    
 <h3 align="left">Software Basics:</h3>
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> </a> 
@@ -165,6 +165,8 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="git-bash" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node-js" width="40" height="40"/> </a> 
 </p>
+
+
 
 <!--Cuarta Linea .gift-->
 <br>
