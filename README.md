@@ -85,28 +85,41 @@
 <b>Skills, Languages and Tools</b>
 </h1>
 
-<div>
- <p style="display: inline-block;" align="center">
+<div> <!--Esta etiqueta genera la division-->
+ <p style="display: inline-block;" align="center"> <!--Esta etiqueta es para contener todo-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
       <span style="font-size: 24px;" align="center">Software Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img width="80" height="45" src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" /> 
-      <img width="40" height="40" src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC"/> 
-      <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" /> 
+      <img src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" width="80" height="45"/> 
+      <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC" width="40" height="40"/> 
+      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" width="40" height="40" /> 
     </kbd> <!--Esta etiqueta crea el Cuadro-->
     <kbd> <!--Esta etiqueta crea el Cuadro-->
-      <span style="font-size: 24px;" align="center">Software Basics:</span>
+      <span style="font-size: 24px;" align="center">Frontend Development Basics:</span>
       <br>  <!--Lineas de Salto-->
       <br> <!--Lineas de Salto-->
       <!--Imagenes dentro del Display-->
-      <img width="80" height="45" src="https://www.jbhifi.business/Images/windows-11.png" alt="windows" /> 
-      <img width="40" height="40" src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="VSC"/> 
-      <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png" alt="Excel" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/> 
+      <img src="https://pngimg.com/uploads/php/php_PNG45.png" alt="php" width="30" height="44"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/>
     </kbd> <!--Esta etiqueta crea el Cuadro-->
-    </p> 
-</div>
+    <kbd> <!--Esta etiqueta crea el Cuadro-->
+      <span style="font-size: 24px;" align="center">Frontend Development Advanced:</span>
+      <br>  <!--Lineas de Salto-->
+      <br> <!--Lineas de Salto-->
+      <!--Imagenes dentro del Display-->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="40"/> </a> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+      <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width="40" height="40"/> </a> 
+      <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width="58" height="40"/> </a> 
+    </kbd> <!--Esta etiqueta crea el Cuadro-->
+    </p>  <!--Esta etiqueta es para contener todo-->
+</div> <!--Esta etiqueta genera la division-->
 
 <!--Software Básico + .png-->
 <h3 align="left">Software Basics:</h3>
