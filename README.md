@@ -4,9 +4,9 @@
 <br>
 <!--.gift + Saludo + .gift-->
 <h1 align="center">
-<img src="https://image.space.rakuten.co.jp/lg01/98/0001006098/24/img0cd74f78zik7zj.gif" width="35">
+<img src="https://image.space.rakuten.co.jp/lg01/98/0001006098/24/img0cd74f78zik7zj.gif" width= 35 px>
 <b>Hi , I'm Luis Daniel Vargas Rodríguez</b>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width= 35 px>
 </h1>
 <!--Quien soy? + .gift-->
 <h3 align="center">A Passionate Developer FullStack from México<img align="center" src="https://th.bing.com/th/id/R.30604a1f63fe70bc5425d915a89f4e88?rik=mi%2f3NXK7eWiuvQ&riu=http%3a%2f%2fi67.photobucket.com%2falbums%2fh317%2fal7n6awi%2fflags%2fAnimated-Flag-Mexico.gif&ehk=a2iV%2b3ovS4hm496so3NSldzWjES5QEA0sAFedqq8w7g%3d&risl=&pid=ImgRaw&r=0" alt="bandera mexico" height="35" width="50"></h3>
@@ -20,7 +20,7 @@
 
 <!--Mas sobre mi + .gift-->
 <h1 align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 65 px>
 <b>About me</b>
 </h1>
 <p align="center">
@@ -35,21 +35,21 @@
 
 <!--Conecta conmigo + .gift-->
 <h2 align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="85">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width= 85 px>
 <b>Connect with me:</b>
 </h2>
 <!--Aqui conecta el Facebook-->
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://seeklogo.com/images/F/facebook-logo-58E30FB0A9-seeklogo.com.png" alt="facebook" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width= 65 px /></a>
 
 <!--Mi Trabajo-->
 <h2 align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width= 40 px>
 <b>My work:</b>
 </h2>
 <!--Aqui conecta el GitHub-->
 <p align="center">
-<a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" height="40" width="40" /></a>
+<a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /></a>
 </p>
 
 <!--Mis Insignias-->
