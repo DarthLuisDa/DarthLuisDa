@@ -23,15 +23,25 @@
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 65 px>
 <b>About me</b>
 </h1>
+
 <p align="center">
 - 🤖 I’m currently learning **Fundaments of IA**
 </p>
 <p align="center">
 - 💬 Ask me about **HTML,CSS,JavaScript y ReactJS**
 </p>
+
+<!--Me puedes encontrar-->
+<h2 align="center">
+<img src="https://cdn.dribbble.com/users/361933/screenshots/1945591/media/5946246fae3cdc19360644a5df2265c6.gif" width= 60 px>
+<b>How to reach me:</b>
+</h2>
+<!--Correo-->
 <p align="center">
-- 📫 How to reach me **ldaniel.18@hotmail.com**
+<a href="" target="blank"><img src="" alt="ldaniel.18@hotmail.com" width= 65 px /></a>
+ldaniel.18@hotmail.com
 </p>
+
 
 <!--Conecta conmigo + .gift-->
 <h2 align="center">
@@ -59,21 +69,14 @@
 </h2>
 <!--Insignias-->
 <p align="center">
-<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" height="150" width="150" /></a>
-<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" height="150" width="150" /></a>
+<a href="" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 100 px /></a>
+<a href="" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 100 px /></a>
 </p>
 
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-<!--Despegable-->  
-<!--<details>
-<summary font-size= 30px; align="center">Skills, Languages and Tools</summary> <!--Para desplegar contenido-->  
-<!--<div>
-<!--Aqui va todo el contenido-->  
-<!--</div>
  
 <!--Habilidades, Lenguajes y Herramientas + .gift-->
 <h1 align="center">
@@ -167,7 +170,16 @@
 
 [DarthLuisDa](https://github.com/DarthLuisDa)
 
-Last Edited on: 28/December/2023
+Last Edited on: 29/December/2023
+
+<!--Despegable-->  
+<!--<details>
+<summary font-size= 30px; align="center">Skills, Languages and Tools</summary> <!--Para desplegar contenido-->  
+<!--<div>
+<!--Aqui va todo el contenido-->  
+<!--</div>
+
+
  
 <!--Software Básico + .png-->
 <!--<h3 align="left">Software Basics:</h3>
