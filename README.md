@@ -24,7 +24,6 @@
 <b>About me</b>
 </h1>
 
-<h3 align="center">💻 Computer Systems Engineering Student</h3>
 <h3 align="center">🤖 I’m currently learning... **IT and IA**</h3>
 <h3 align="center">💬 Ask me about... **HTML,CSS,JavaScript y ReactJS**</h3>
 
@@ -74,6 +73,18 @@ ldaniel.18@hotmail.com
 <a href="https://www.credly.com/badges/018e885f-efc8-4bd2-9f3e-df6d01706f45" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 110 px /></a>
 <a href="https://drive.google.com/file/d/1QbQNK9ZKTYugPi_R2O66InaQxsc_kyae/view?usp=sharing" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 110 px /></a>
 </p>
+
+<!--Estudiante UTEL-->
+<h2 align="center">
+<img src="https://bestanimations.com/media/books/1551224852page-turning-book-animation-19.gif" width= 40 px>
+<b>Computer Systems Engineering Student in:</b>
+</h2>
+<!--Aqui conecta el GitHub-->
+<p align="center">
+<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://cdn.shopify.com/s/files/1/1133/2028/t/3/assets/logo.png?v=11622872043024664076" alt="git-hub" width= 65 px /></a>
+</p>
+
+<h3 align="center">💻 Computer Systems Engineering Student</h3>
 
 <!--Tercera Linea .gift-->
 <br>
