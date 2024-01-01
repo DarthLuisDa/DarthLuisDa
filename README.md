@@ -24,7 +24,7 @@
 <b>About me</b>
 </h1>
 
-<h3 align="center">📖 Computer Systems Engineering Student</h3>
+<h3 align="center">💻 Computer Systems Engineering Student</h3>
 <h3 align="center">🤖 I’m currently learning... **IT and IA**</h3>
 <h3 align="center">💬 Ask me about... **HTML,CSS,JavaScript y ReactJS**</h3>
 
