@@ -64,14 +64,14 @@ ldaniel.18@hotmail.com
 <!--Aqui conecta el GitHub-->
 <p align="center">
 <a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /></a>
-<a href="https://darthluisda.github.io/CyberPunk_Headphones_Gamer" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" 
+<a href="https://darthluisda.github.io/CyberPunk_Headphones_Gamer" target="blank"><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/borismatosmorillo/images/126981/daftpunktocat-thomas.gif" 
 alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <a href="https://darthluisda.github.io/Formulario_Encuesta_Sencillo_con_Validacion/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="formulario_encuesta_sencillo_con_validacion" width= 85 px /></a>
 <a href="https://darthluisda.github.io/Flexbox_y_CSS_Grid/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="pizzeria" width= 85 px /></a>
-<a href="https://darthluisda.github.io/google_clone/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="google-clon" width= 85 px /></a>
-<a href="https://darthluisda.github.io/App_CRUD/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_CRUD" width= 85 px /></a>
+<a href="https://darthluisda.github.io/google_clone/" target="blank"><img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="google-clon" width= 85 px /></a>
+<a href="https://darthluisda.github.io/App_CRUD/" target="blank"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="app_CRUD" width= 85 px /></a>
 <a href="https://darthluisda.github.io/App_de_Libreria/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_LIBRERIA" width= 85 px /></a>
-<a href="https://github.com/DarthLuisDa/App_Fakestore" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_LIBRERIA" width= 85 px /></a>
+<a href="https://github.com/DarthLuisDa/App_Fakestore" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_fakestore" width= 85 px /></a>
 </p>
 
 <!--Mis Insignias-->
