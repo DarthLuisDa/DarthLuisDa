@@ -26,6 +26,7 @@
 
 <h3 align="center">🤖 I’m currently learning... **IT and IA**</h3>
 <h3 align="center">💬 Ask me about... **HTML,CSS,JavaScript y ReactJS**</h3>
+<h3 align="center">💻 Computer Systems Engineering Student</h3>
 
 <!--Me puedes encontrar-->
 <h2 align="center">
@@ -81,10 +82,8 @@ ldaniel.18@hotmail.com
 </h2>
 <!--Aqui conecta el GitHub-->
 <p align="center">
-<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://cdn.shopify.com/s/files/1/1133/2028/t/3/assets/logo.png?v=11622872043024664076" alt="git-hub" width= 65 px /></a>
+<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://cdn.shopify.com/s/files/1/1133/2028/t/3/assets/logo.png?v=11622872043024664076" alt="git-hub" width= 85 px /></a>
 </p>
-
-<h3 align="center">💻 Computer Systems Engineering Student</h3>
 
 <!--Tercera Linea .gift-->
 <br>
