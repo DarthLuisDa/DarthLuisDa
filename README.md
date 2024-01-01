@@ -80,9 +80,9 @@ ldaniel.18@hotmail.com
 <img src="https://bestanimations.com/media/books/1551224852page-turning-book-animation-19.gif" width= 40 px>
 <b>Computer Systems Engineering Student in:</b>
 </h2>
-<!--Aqui conecta el GitHub-->
+<!--Página UTEL-->
 <p align="center">
-<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://cdn.shopify.com/s/files/1/1133/2028/t/3/assets/logo.png?v=11622872043024664076" alt="git-hub" width= 85 px /></a>
+<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://utel.edu.mx/_next/image?url=https:%2F%2Fcmsutel.s3.amazonaws.com%2FLogo_Utel_University_01_02_3f5ca7d221.png&w=2048&q=75" alt="git-hub" width= 85 px /></a>
 </p>
 
 <!--Tercera Linea .gift-->
