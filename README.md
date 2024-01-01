@@ -62,6 +62,7 @@ ldaniel.18@hotmail.com
 <!--Aqui conecta el GitHub-->
 <p align="center">
 <a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /></a>
+<a href="https://darthluisda.github.io/CyberPunk_Headphones_Gamer" target="blank"><img src="https://drive.google.com/file/d/1mRyN4awElkz4tt6Jr0eSx210cxTIjh-N/view?usp=sharing" alt="cyberpunk_headphones_gamer" width= 65 px /></a>
 </p>
 
 <!--Mis Insignias-->
