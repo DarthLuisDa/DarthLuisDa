@@ -34,6 +34,7 @@
 <b>How to reach me:</b>
 </h2>
 <!--Correo-->
+
 <h3 align="center">
 <a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=19&ct=1704121657&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fcobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26nlp%3d1%26deeplink%3dowa%252f%253frealm%253dhotmail.com%26RpsCsrfState%3dba533e68-6cda-380e-ec8a-5cff28173b5f&id=292841&aadredir=1&whr=hotmail.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c" target="blank"><img src="https://wowjohn.com/wp-content/uploads/2022/05/hotmail-logo-png-1-Transparent-Images.png" alt="hotmail" width= 65 px /></a>
 ldaniel.18@hotmail.com
@@ -44,7 +45,6 @@ ldaniel.18@hotmail.com
 5cvargas.luis@gmail.com
 </h3>
 
-
 <!--Conecta conmigo + .gift-->
 <h2 align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width= 85 px>
@@ -54,6 +54,7 @@ ldaniel.18@hotmail.com
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://ibrl.aces.illinois.edu/wp-content/uploads/2018/03/facebook-logo.png" alt="facebook" width= 75 px /></a>
 <a href="https://www.linkedin.com/in/luisdavargasdesarrolladorwebfullstack/" target="blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="linkedin" width= 65 px /></a>
+</p>
 
 <!--Mi Trabajo-->
 <h2 align="center">
