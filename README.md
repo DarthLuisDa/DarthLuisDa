@@ -34,12 +34,12 @@
 </h2>
 <!--Correo-->
 <h3 align="center">
-<a href="" target="blank"><img src="https://wowjohn.com/wp-content/uploads/2022/05/hotmail-logo-png-1-Transparent-Images.png" alt="ldaniel.18@hotmail.com" width= 65 px /></a>
+<a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=19&ct=1704121657&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fcobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26nlp%3d1%26deeplink%3dowa%252f%253frealm%253dhotmail.com%26RpsCsrfState%3dba533e68-6cda-380e-ec8a-5cff28173b5f&id=292841&aadredir=1&whr=hotmail.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c" target="blank"><img src="https://wowjohn.com/wp-content/uploads/2022/05/hotmail-logo-png-1-Transparent-Images.png" alt="hotmail" width= 65 px /></a>
 ldaniel.18@hotmail.com
 </h3>
 <!--Correo 2-->
 <h3 align="center">
-<a href="" target="blank"><img src="https://i.pinimg.com/originals/72/6d/02/726d025f49feae4c521d84681355bea4.png" alt="5cvargas.luis@gmail.com" width= 65 px /></a>
+<a href="https://accounts.google.com/InteractiveLogin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fhl%3Des-419&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fhl%3Des-419&hl=es-419&osid=1&passive=1209600&service=mail&ifkv=ASKXGp2TBFyvbCrJbedBY0xNbBNPlNiRtkIKvSfBZ3-NmDIRIe60TIl59w-kj2x6a3lkA8v3-M06hg&theme=glif&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="blank"><img src="https://i.pinimg.com/originals/72/6d/02/726d025f49feae4c521d84681355bea4.png" alt="gmail" width= 65 px /></a>
 5cvargas.luis@gmail.com
 </h3>
 
