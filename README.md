@@ -53,6 +53,7 @@ ldaniel.18@hotmail.com
 <!--Aqui conecta el Facebook-->
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100026963329783" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width= 65 px /></a>
+<a href="https://www.linkedin.com/in/luisdavargasdesarrolladorwebfullstack/" target="blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="linkedin" width= 65 px /></a>
 
 <!--Mi Trabajo-->
 <h2 align="center">
