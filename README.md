@@ -82,7 +82,7 @@ ldaniel.18@hotmail.com
 </h2>
 <!--Página UTEL-->
 <p align="center">
-<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://utel.edu.mx/_next/image?url=https:%2F%2Fcmsutel.s3.amazonaws.com%2FLogo_Utel_University_01_02_3f5ca7d221.png&w=2048&q=75" alt="git-hub" width= 85 px /></a>
+<a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://utel.edu.mx/_next/image?url=https:%2F%2Fcmsutel.s3.amazonaws.com%2FLogo_Utel_University_01_02_3f5ca7d221.png&w=2048&q=75" alt="git-hub" width= 110 px/></a>
 </p>
 
 <!--Tercera Linea .gift-->
