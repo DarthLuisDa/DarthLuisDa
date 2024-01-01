@@ -25,7 +25,7 @@
 </h1>
 
 <h3 align="center">🤖 I’m currently learning... **IT and IA**</h3>
-<h3 align="center">💬 Ask me about... **HTML,CSS,JavaScript y ReactJS**</h3>
+<h3 align="center">💬 Ask me about... **HTML,CSS and JavaScript**</h3>
 <h3 align="center">💻 Computer Systems Engineering Student 30% 🔋</h3>
 
 <!--Me puedes encontrar-->
