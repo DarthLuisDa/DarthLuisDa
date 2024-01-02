@@ -97,7 +97,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 
 <!--Estudiante UCAMP-->
 <h2 align="center">
-<img src="https://bestanimations.com/media/books/1551224852page-turning-book-animation-19.gif" width= 40 px>
+<img src="https://info.universal-robots.com/hubfs/UR5_Wave-1.gif" width= 40 px>
 <b>Artificial intelligence Student in:</b>
 </h2>
 <!--Página UCAMP-->
