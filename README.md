@@ -83,6 +83,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <p align="center">
 <a href="https://www.credly.com/badges/018e885f-efc8-4bd2-9f3e-df6d01706f45" target="blank"><img src="https://images.credly.com/size/340x340/images/9005f548-740e-4af7-95ac-d2e10320a33e/image.png" alt="fullstack developer web UTEL" width= 110 px /></a>
 <a href="https://drive.google.com/file/d/1QbQNK9ZKTYugPi_R2O66InaQxsc_kyae/view?usp=sharing" target="blank"><img src="https://server.talentotechgto.com.mx/storage/reconocimientos/653ad360b8e4a/reconocimientoiecasmall.jpg" alt="fullstack developer android IECA-UNAM" width= 110 px /></a>
+<a href="https://drive.google.com/file/d/14imXxd3VKbytGZVo8s4qr1dg4mR9G6ie/view?usp=sharing" target="blank"><img src="https://imgv2-1-f.scribdassets.com/img/document/445958545/original/3fd5d54a7d/1625382061?v=1" alt="fullstack developer android IECA-UNAM" width= 110 px height= 85 px/></a>
 </p>
 
 <!--Estudiante UTEL-->
