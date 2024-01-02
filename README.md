@@ -102,7 +102,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 </h2>
 <!--Página UCAMP-->
 <p align="center">
-<a href="" target="blank"><img src="https://ucamp.io/repositorio/uploads/2022/05/utel-empresas.png" width= 110 px/></a>
+<a href="https://ucamp.io/" target="blank"><img src="https://ucamp.io/repositorio/uploads/2022/05/utel-empresas.png" width= 110 px/></a>
 </p>
 
 <!--Tercera Linea .gift-->
