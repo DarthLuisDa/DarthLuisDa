@@ -59,9 +59,9 @@ ldaniel.18@hotmail.com
 <!--Mi Trabajo-->
 <h2 align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width= 40 px>
-<b>My work:</b>
+<b>My work and my other Repositorie:</b>
 </h2>
-<!--Aqui conecta el GitHub-->
+<!--Aqui conecta el GitHub y las paginas-->
 <p align="center">
 <a href="https://github.com/DarthLuisDa?tab=repositories" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-1024.png" alt="git-hub" width= 65 px /></a>
 <a href="https://darthluisda.github.io/CyberPunk_Headphones_Gamer" target="blank"><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/borismatosmorillo/images/126981/daftpunktocat-thomas.gif" 
@@ -72,6 +72,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <a href="https://darthluisda.github.io/App_CRUD/" target="blank"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="app_CRUD" width= 85 px /></a>
 <a href="https://darthluisda.github.io/App_de_Libreria/" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_LIBRERIA" width= 85 px /></a>
 <a href="https://github.com/DarthLuisDa/App_Fakestore" target="blank"><img src="https://pluspng.com/img-png/github-logo-png-github-logos-and-usage-github-800x665.png" alt="app_fakestore" width= 85 px /></a>
+<a href="https://github.com/LuisDaniel-byte?tab=repositories" target="blank"><img src="https://pbs.twimg.com/media/Ded6FRqVwAENGIj.png" alt="git-hub" width= 65 px /></a>
 </p>
 
 <!--Mis Insignias-->
