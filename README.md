@@ -95,6 +95,16 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <a href="https://uteluniversidad.mx/s/utel?https://uteluniversidad.mx/p/utel-formacion&msclkid=4c70453074ce11bbd41120a2aeb583ad" target="blank"><img src="https://utel.edu.mx/_next/image?url=https:%2F%2Fcmsutel.s3.amazonaws.com%2FLogo_Utel_University_01_02_3f5ca7d221.png&w=2048&q=75" alt="git-hub" width= 110 px/></a>
 </p>
 
+<!--Estudiante UCAMP-->
+<h2 align="center">
+<img src="https://bestanimations.com/media/books/1551224852page-turning-book-animation-19.gif" width= 40 px>
+<b>Artificial intelligence Student in:</b>
+</h2>
+<!--Página UCAMP-->
+<p align="center">
+<a href="" target="blank"><img src="https://ucamp.io/repositorio/uploads/2022/05/utel-empresas.png" width= 110 px/></a>
+</p>
+
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
