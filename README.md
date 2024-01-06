@@ -177,7 +177,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width= 65 px />
 </kbd> <!--Esta etiqueta crea el Cuadro-->
 <kbd> <!--Esta etiqueta crea el Cuadro-->
-<span align="center">Software Design Basics:</span>
+<span align="center">Software Design:</span>
 <br>  <!--Lineas de Salto-->
 <br> <!--Lineas de Salto-->
 <!--Imagenes dentro del Display-->
