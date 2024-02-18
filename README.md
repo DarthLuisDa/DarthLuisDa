@@ -217,7 +217,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 
 [DarthLuisDa](https://github.com/DarthLuisDa)
 
-Last Edited on: 06/Enero/2024
+Last Edited on: 18/Febrero/2024
 
 <!--Despegable-->  
 <!--<details>
