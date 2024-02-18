@@ -108,6 +108,16 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <a href="https://ucamp.io/" target="blank"><img src="https://ucamp.io/repositorio/uploads/2022/05/utel-empresas.png" width= 110 px/></a>
 </p>
 
+<!--Estudiante IECA-->
+<h2 align="center">
+<img src="https://www.jimphicdesigns.com/downloads/imgs-mockup/statistics-blocks-up-down-animation.gif" width= 40 px>
+<b>Data Analyst Studen in:</b>
+</h2>
+<!--Página UCAMP-->
+<p align="center">
+<a href="https://talentotechgto.com.mx/app/home/_" target="blank"><img src="https://th.bing.com/th/id/R.d3d396a436ed8b99d33a42adf32fade2?rik=ufsoxd33O4c4Pw&riu=http%3a%2f%2fieca.edu.mx%2fLMS%2fpluginfile.php%2f1%2ftheme_moove%2flogo%2f1671045519%2fIECA_azul+(1).png&ehk=TwUR1dgbZmvbugX%2fz43wHnT0GcBD%2fTfgplS2OXKE2es%3d&risl=&pid=ImgRaw&r=0" width= 110 px/></a>
+</p>
+
 <!--Tercera Linea .gift-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
