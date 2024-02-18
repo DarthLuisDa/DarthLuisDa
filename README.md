@@ -159,7 +159,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width= 65 px /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width= 65 px /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width= 65 px /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width= 65 px /> 
+<img src="https://media.zeemly.com/media/product/tailwind-css.png" alt="tailwind" width= 65 px /> 
 <img src="https://logospng.org/download/w3schools/w3schools-1536.png" alt="w3schools" width= 65 px /> 
 <img src="https://saasradar.net/wp-content/uploads/2022/03/api_rest.png" alt="api rest" width= 115 px/> 
 </kbd> <!--Esta etiqueta crea el Cuadro-->
@@ -193,7 +193,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 <br> <!--Lineas de Salto-->
 <!--Imagenes dentro del Display-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width= 65 px /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width= 65 px />
+<img src="https://1.bp.blogspot.com/-j05j8YxIIz8/Xzqn2vW2gnI/AAAAAAAABsY/lbuqa58Il6EkSyajrHCcRUronuyRX4XZwCLcBGAsYHQ/s414/Capture.PNG" alt="photoshop" width= 65 px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width= 65 px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width= 65 px />
 </kbd> <!--Esta etiqueta crea el Cuadro-->
