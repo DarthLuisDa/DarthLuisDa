@@ -110,7 +110,7 @@ alt="cyberpunk_headphones_gamer" width= 85 px /></a>
 
 <!--Estudiante IECA-->
 <h2 align="center">
-<img src="https://www.jimphicdesigns.com/downloads/imgs-mockup/statistics-blocks-up-down-animation.gif" width= 40 px>
+<img src="https://i.pinimg.com/originals/ed/54/f7/ed54f79e5418a558a605f2f06c903a08.gif" width= 40 px>
 <b>Data Analyst Studen in:</b>
 </h2>
 <!--Página UCAMP-->
